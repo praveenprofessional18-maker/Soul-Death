@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SoulDeath/Scenes/00_MainMenu.unity
+    guid: 8bd59e012c09ea147b863116410b378c
+  - enabled: 1
+    path: Assets/SoulDeath/Scenes/01_CityIntro.unity
+    guid: 2428ad27a457bd545af99de0709cb51f
+  - enabled: 1
+    path: Assets/SoulDeath/Scenes/02_PoliceChase.unity
+    guid: 5aae1af3b9d3c9346814826f2e742d81
+  - enabled: 1
+    path: Assets/SoulDeath/Scenes/03_ForestPortal.unity
+    guid: aba3d82f67af0e84b9707cada3788e15
+  - enabled: 1
+    path: Assets/SoulDeath/Scenes/04_MysteryArena.unity
+    guid: 00eafcff72248504c9ad68d1620f1843
+  - enabled: 1
+    path: Assets/SoulDeath/Scenes/05_Ending.unity
+    guid: e523f6aa1b694084fa54bce166410ed4
+  - enabled: 1
+    path: Assets/Scenes/GetStarted_Scene.unity
+    guid: 6888813f2bd9e4521b9b1343abf0c60f
+  m_configObjects:
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
